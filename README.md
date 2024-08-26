@@ -2,7 +2,7 @@
 - 👀 I’m interested in upskilling into a digital job
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me michellewillcode@gmail.com
+- 📫 How to reach me michellewillcodes@gmail.com
 - 😄 Pronouns: no preference
 - ⚡ Fun fact: ...
 
