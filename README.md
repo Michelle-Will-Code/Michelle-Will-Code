@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @Michelle-Will-Code
-- 👀 I’m interested in upskilling into a digital job
-- 🌱 I’m currently learning Python and Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me michellewillcodes@gmail.com
-- 😄 Pronouns: no preference
-- ⚡ Fun fact: Silence is golden ... unless you have kids. Then silence is suspicious
+Hi, I’m Michelle 👋
 
-<!---
-Michelle-Will-Code/Michelle-Will-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an HNC Software Development & AI student and career changer building my skills in Python, software development, and beginner machine learning.
+
+I’m currently working on:
+- Improving a machine learning model for concrete compressive strength prediction
+- Building Python projects using file handling, OOP, and structured programming
+- Developing my GitHub portfolio as I work towards a junior software developer role
+
+Projects I’m proud of:
+- Task Manager – Python app using file handling
+- Fee Calculation App – Python logic and numerical processing
+- Text-Based Game – object-oriented programming project
+- Concrete AI Model – machine learning model improvement project
+
+Skills:
+Python | GitHub | File Handling | OOP | Basic Machine Learning | Problem Solving
+
+I’m actively learning and building practical projects as I move towards my first role in tech.
